@@ -1,0 +1,10 @@
+vhost
+
+<VirtualHost projetomvc.pc:80>
+    ServerAdmin webmaster@projetomvc.pc
+    DocumentRoot "C:/xampp/htdocs/projetomvc/index.php"
+    ServerName projetomvc.pc
+	ServerAlias projetomvc.pc
+    ErrorLog "logs/projetomvc.pc-error.log"
+    CustomLog "logs/projetomvc.pc-access.log" common
+</VirtualHost>

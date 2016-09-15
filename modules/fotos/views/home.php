@@ -1,0 +1,1 @@
+<h1> Está é a home do module fotos</h1>
